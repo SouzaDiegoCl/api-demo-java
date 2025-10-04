@@ -25,4 +25,6 @@ public class FaculdadeController {
     public List<String> getAlunos() {
         return List.of("Maria Silva", "João Santos", "Ana Pereira");
     }
+
+    //Simulando alteração
 }
